@@ -1,0 +1,11 @@
+Haloo semuanya.
+saya sedang mencoba membaca file.
+
+
+Data
+No	Nama
+1	Udang
+2	Sapi
+3	Sima
+4	Salaman
+5	Udin
